@@ -2,7 +2,7 @@
 # Hi, I’m @nawaz-prince
 
 ## Introduction
-Hello, I'm Nawaz Prince, a B.Tech student currently pursuing Computer Science and Engineering with a specialization in AI and ML. I am passionate about coding and exploring the fascinating world of artificial intelligence and machine learning.
+Hello, I'm Nawaz Prince, a B.Tech graduate in Computer Science and Engineering with a specialization in AI and ML. I am passionate about coding and exploring the fascinating world of artificial intelligence and machine learning.
 
 ## Interests
 - 💻 Coding: I enjoy working on diverse coding projects, experimenting with different technologies, and solving problems.
